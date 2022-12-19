@@ -1,6 +1,6 @@
 <h1>Xeon Chatbot</h1>
 
-<p>This is a chatbot program built using the Tkinter library and the OpenAI API. The chatbot can be launched by running the python script <code>chatbot.py</code>.</p>
+<p>This is a chatbot program built using the Tkinter library and the OpenAI API. The chatbot can be launched by running the python script <code>Xeon1.py</code>.</p>
 
 <h2>Dependencies</h2>
 
