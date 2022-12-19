@@ -12,7 +12,7 @@ except ModuleNotFoundError:
   install_openai()
   import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR-API-KEY-JERE"
 
 def chat(prompt):
  # Display the "Processing" label
