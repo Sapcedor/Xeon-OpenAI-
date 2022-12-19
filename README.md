@@ -23,6 +23,19 @@
   <li>To exit the program, type "exit" in the input field and press enter.</li>
 </ol>
 
+<p>To use the OpenAI API, you will need to obtain an API key. Here is how you can obtain an API key:</p>
+
+<ol>
+  <li>Go to the <a href="https://beta.openai.com/signup">OpenAI beta signup page</a>.</li>
+  <li>Fill out the form and agree to the terms of service.</li>
+  <li>Click the "Sign up" button.</li>
+  <li>Wait for an email from OpenAI with your API key. This may take a few days.</li>
+  <li>Copy the API key from the email and paste it into the `openai.api_key` variable in the script.</li>
+</ol>
+
+<p>Note that the OpenAI API is currently in beta and may have limited availability. You may need to wait for an opening in the beta program before you can obtain an API key.</p>
+
+
 <h2>Customization</h2>
 
 <p>The appearance and behavior of the chatbot can be modified by editing the code in the following sections:</p>
