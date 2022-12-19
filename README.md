@@ -2,6 +2,9 @@
 
 <p>This is a chatbot program built using the Tkinter library and the OpenAI API. The chatbot can be launched by running the python script <code>Xeon1.py</code>.</p>
 
+<p>This chatbot is capable of holding a conversation with a user by generating responses to the user's messages using the OpenAI API. The chatbot is trained on a large dataset of text and is able to understand and respond to a wide range of topics and queries. The chatbot's responses can be customized by changing the `engine` parameter in the `chat` function, or by adjusting the `prompt` and `temperature` parameters to alter the chatbot's behavior. The chatbot's user interface is built using the Tkinter library, and can be customized using the various options available for Tkinter widgets.</p>
+
+
 <h2>Dependencies</h2>
 
 <ul>
